@@ -82,6 +82,7 @@ void loop()
 }
 ```
 
+
 ## OUTPUT OF SIMULATION :
 
 ![image](https://github.com/Priyanka1846/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/139425809/26b8ab54-926d-4f38-91a5-dc2f733aea61)
